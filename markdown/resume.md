@@ -31,8 +31,7 @@ tools and integrations
 
 #### [Lewis Cass](http://www.lewiscass.net), <i>Walton, IN</i><br/> High School Teacher, <i>September 2010-July 2015</i>
 
-* Teaching courses including Physics, Computer Science & Software Engineering &
-Principles of Engineering
+* Teaching courses including Physics, Computer Science & Principles of Engineering
 * Introduced multiple new courses to the school, including beta-teaching [PLTW](https://www.pltw.org/) Computer Science
 * Researching, developing, delivering and revising effective lessons
 * Creating and mentoring the Iron Kings, a FIRST Robotics team, who were able to advance to the World Championship in our rookie season
@@ -46,7 +45,7 @@ Open Source
 [intake](https://github.com/intake/intake/commits?author=blackary) • 
 [intake-geopandas](https://github.com/intake/intake_geopandas/commits?author=blackary) • 
 [apache arrow](https://github.com/apache/arrow/commits?author=blackary)
-:   Helped to create a [custom plugin](https://pypi.org/project/intake-pattern-catalog/) for Intake which allows for the automatic population of a data catalog with data files matching a certain pattern
+:   Co-developer and maintainer of a [custom plugin](https://pypi.org/project/intake-pattern-catalog/) for Intake which allows for the automatic population of a data catalog with data files matching a certain pattern
 
 Programming Languages
 :   **high proficiency:** Python
