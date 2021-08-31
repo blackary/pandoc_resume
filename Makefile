@@ -6,6 +6,7 @@ STYLE=chmduquesne
 all: html pdf docx rtf
 
 pdf: init
+	mtxrun --generate
 	for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 		echo $$FILE_NAME.pdf; \
