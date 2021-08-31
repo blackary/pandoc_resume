@@ -12,24 +12,24 @@ Zachary Blackwood
 
 #### [DTN](https://www.dtn.com), <i>West Lafayette, IN</i><br/> Machine Learning Engineer, <i>April 2018-Present</i>
 
-* Created and maintained scalable computing and data storage/access for data science team with AWS EC2, S3, EFS, Batch & Lambda
+* Creating and maintaining scalable computing and data storage/access for data science team with AWS EC2, S3, EFS, Batch & Lambda
 * Deploying and maintaining infrastructure for the data science team on AWS, including scalable computing, and data access/storage
 * Training developers in Python development and best practices through code feedback, mentorship conversations and python training seminars
 * Building and maintaining a distributed ML training pipeline for multiple production models that provide [electric utility outage prediction](https://www.dtn.com/weather/utilities-and-renewable-energy/storm-impact-analytics)
-* Creating and maintaining a data catalog tool which enabled Data Scientists across the company to create new and access new data sets for modeling and analysis
+* Creating and maintaining a data catalog tool which enables Data Scientists across the company to create new and access new data sets for modeling and analysis
 
 #### [Spensa](https://www.dtn.com/dtn-acquires-spensa-technologies/), <i>West Lafayette, IN</i><br/> Full Stack Web Developer, <i>July 2015-April 2018</i>
 
 * Developing end-to-end features to conform to both detailed and limited specifications derived through conversations with product management
-* Managed and scaled web servers and PostgreSQL servers with a growing customer base and seasonal demand spikes
+* Managing and scaling web servers and PostgreSQL servers with a growing customer base and seasonal demand spikes
 * Integrating with several third-party APIs to allow users to asynchronously move terrabytes of data to and from these other services
-* Technical management for multi-million dollar long-term contract, including prioritizing tasks, training and assistance for a team of developers and managing customer and product management relationships
-* Monitored and maintained system to address outages and various other customer issues
+* Technical management for multi-million dollar long-term contract, including prioritizing tasks, training and assistance for a team of developers and facilitating customer and product management relationships
+* Monitoring and maintaining system to address outages and various other customer issues
 
 #### [Lewis Cass](http://www.lewiscass.net), <i>Walton, IN</i><br/> High School Teacher, <i>September 2010-July 2015</i>
 
 * Teaching courses including Physics, Computer Science & Principles of Engineering
-* Introduced multiple new courses to the school, including beta-teaching [PLTW](https://www.pltw.org/) Computer Science
+* Introducing multiple new courses to the school, including beta-teaching [PLTW](https://www.pltw.org/) Computer Science
 * Researching, developing, delivering and revising effective lessons based on student success and student and mentor feedback
 * Creating and mentoring the Iron Kings, a [FIRST Robotics](https://www.firstinspires.org/robotics/frc) team, who were able to advance to the World Championship in our rookie season
 * Mentoring the team members in fundraising, software development, electrical wiring, etc. in the process of creating our robot
