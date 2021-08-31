@@ -18,7 +18,7 @@ jobs:
       steps:
         - uses: actions/checkout@v2
         - uses: rlespinasse/github-slug-action@v3.x
-        - uses: docker://tdhopper/pandoc-context:latest
+        - uses: docker://zblackwo/pandoc_resume:latest
           with:
             args: >-
               -c make

@@ -8,6 +8,6 @@ services:
       dockerfile: ./.docker/resume.dockerfile
     command: make
     container_name: resume-make
-    image: resume-make
+    image: zblackwo/pandoc_resume:latest
     volumes:
       - .:/home/app/resume
